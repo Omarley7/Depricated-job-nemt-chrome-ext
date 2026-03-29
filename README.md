@@ -1,3 +1,7 @@
+# Depricated Sep 3, 2024
+Migrated to webapp jobnemt.dk as entrylevel for potential users is lower.
+
+---
 # Usage
 
 Here's a demo of the extension in action:
